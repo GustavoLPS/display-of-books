@@ -1,6 +1,6 @@
 # Vitrine de livros
 
-Este projeto é uma biblioteca (embed code) para visualização de uma vitrine de livros
+Este projeto é a visualização de uma vitrine de livros
 a partir de acesso a uma API.
 
 # Tecnologias
